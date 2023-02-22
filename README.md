@@ -1,11 +1,9 @@
-# HTML Skeleton [![Build Status](https://travis-ci.org/le717/brackets-html-skeleton.svg)](https://travis-ci.org/le717/brackets-html-skeleton) #
+# HTML Skeleton: RCC Patch #
 
-> A [Brackets](http://brackets.io) extension that allows you to easily insert a variety of HTML elements into your document.
+> A fork of [HTML Skeleton](https://github.com/le717/brackets-html-skeleton), a [Brackets](http://brackets.io) extension that allows you to easily insert a variety of HTML elements into your document.
 
 # Installation #
-Method 1: Open the Brackets Extension Manager and search for "skeleton"
-
-Method 2: Download a `.zip` directly from GitHub using either the [latest revision](https://github.com/le717/brackets-html-skeleton/archive/master.zip) or [tagged release](https://github.com/le717/brackets-html-skeleton/releases) and drag it onto the "Drag .zip here" area in the Extension Manager.
+Download `.zip` directly from GitHub using either the [latest revision](https://github.com/Rannison/brackets-html-skeleton-RCC-Patch/archive/RCC-Patch.zip) or [tagged release](https://github.com/Rannison/brackets-html-skeleton-RCC-Patch/releases) and drag it onto the "Drag .zip here" area in the Extension Manager.
 
 # Usage #
 1. Place your cursor in the location you want to insert the elements
